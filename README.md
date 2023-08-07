@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm Gyu-min Choi, a front-end engineer.
+I'm Gyu-min Choi, a front-end engineer.  
 I enjoy problem solving and value both UX and DX.
+
+[choegyumin.com](https://choegyumin.com/about/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:choegyumin@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-15171a?logo=ghost&logoColor=white)](https://www.choegyumin.com/)
