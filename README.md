@@ -20,8 +20,6 @@ I enjoy problem solving and value both UX and DX.
 
 [choegyumin.com](https://choegyumin.com/about/)
 
----
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=choegyumin)](https://solved.ac/choegyumin)
 
 <div>
@@ -29,3 +27,13 @@ I enjoy problem solving and value both UX and DX.
   
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choegyumin&title_color=316dca&text_color=88888890&icon_color=316dca&bg_color=ffffff00&border_color=88888840&hide_title=true&hide_progress=true&disable_animations=true">
 </div>
+
+---
+
+<details>
+  <summary>...</summary>
+  <ul>
+    <li><a href="https://github.com/gmchoi-hdj">gmchoi-hdj</a></li>
+    <li><a href="https://github.com/alvin-igaw">alvin-igaw</a></li>
+  </ul>
+</details>
