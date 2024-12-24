@@ -33,7 +33,7 @@ I enjoy problem solving and value both UX and DX.
 <details>
   <summary>...</summary>
   <ul>
-    <li><a href="https://github.com/gmchoi-hdj">gmchoi-hdj</a></li>
-    <li><a href="https://github.com/alvin-igaw">alvin-igaw</a></li>
+    <li><a href="https://github.com/gmchoi-hdj">gmchoi-hdj</a> 2018.12 - 2022.10</li>
+    <li><a href="https://github.com/alvin-igaw">alvin-igaw</a> 2016.12 - 2018.11</li>
   </ul>
 </details>
