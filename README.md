@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm Alvin Choi (Gyu-min Choi), a frontend engineer.  
-I enjoy problem solving and value both UX and DX.
+I'm Alvin Choi (Gyu-min Choi), a Frontend Engineer.  
+I enjoy real-world problem solving (not algorithm puzzles 😂) and value both UX and DX.
 
 [choegyumin.com](https://choegyumin.com/about/)
 
