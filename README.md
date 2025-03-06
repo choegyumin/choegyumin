@@ -31,7 +31,7 @@ I enjoy real-world problem solving (not algorithm puzzles 😂) and value both U
 ---
 
 <details>
-  <summary>...</summary>
+  <summary>…</summary>
   <ul>
     <li><a href="https://github.com/lemonbase-tech">@lemonbase-tech</a> 2023.12 - 2025.03</li>
     <li><a href="https://github.com/hdjunction">@hdjunction</a> (<a href="https://github.com/gmchoi-hdj">@gmchoi-hdj</a>) 2018.12 - 2022.10</li>
