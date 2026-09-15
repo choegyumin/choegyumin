@@ -20,8 +20,6 @@ I enjoy real-world problem solving — not algorithm puzzles — and value both 
 
 👉 [choegyumin.com](https://choegyumin.com/about/) (Korean)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=choegyumin)](https://solved.ac/choegyumin)
-
 <div>
   <img alt="GitHub Stats" src="https://github-readme-stats-choegyumin.vercel.app/api?username=choegyumin&title_color=316dca&text_color=88888890&icon_color=316dca&bg_color=ffffff00&border_color=88888840&hide_title=true&hide_rank=true&hide=issues,contribs&show_icons=true&disable_animations=true&include_all_commits=true">
   
